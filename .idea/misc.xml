@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -8,6 +13,11 @@
       <list>
         <option value="$PROJECT_DIR$/register/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/client/client-api/pom.xml" />
+        <option value="$PROJECT_DIR$/client/client-core/pom.xml" />
+        <option value="$PROJECT_DIR$/client/client-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/client/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/pom.xml" />
       </list>
     </option>
   </component>

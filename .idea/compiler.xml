@@ -6,11 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="clientdemo-core" />
+        <module name="consumer" />
         <module name="demo" />
         <module name="register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="client" target="1.8" />
+      <module name="client-api" target="1.8" />
+      <module name="client-core" target="1.8" />
+      <module name="client-rest" target="1.8" />
+      <module name="clientdemo" target="1.8" />
+      <module name="clientdemo-core" target="1.8" />
+      <module name="consumer" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="register" target="1.8" />
     </bytecodeTargetLevel>
