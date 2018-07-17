@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: zuul
+server:
+  port: 8100
+eureka:
+  instance:
+    instance-id: zuul1
+    lease-expiration-duration-in-seconds: 90
+    lease-renewal-interval-in-seconds: 30
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8000/eureka/

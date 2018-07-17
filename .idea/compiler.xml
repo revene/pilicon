@@ -10,8 +10,12 @@
         <module name="clientdemo-core" />
         <module name="consumer" />
         <module name="demo" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="gateway" />
         <module name="netty" />
-        <module name="register" />
+        <module name="product" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -23,8 +27,13 @@
       <module name="clientdemo-core" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway" target="1.8" />
       <module name="netty" target="1.8" />
+      <module name="product" target="1.8" />
       <module name="register" target="1.8" />
+      <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
