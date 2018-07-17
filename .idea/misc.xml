@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/client/client-rest/pom.xml" />
         <option value="$PROJECT_DIR$/client/pom.xml" />
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
       </list>
     </option>
   </component>

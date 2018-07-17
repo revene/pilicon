@@ -10,6 +10,7 @@
         <module name="clientdemo-core" />
         <module name="consumer" />
         <module name="demo" />
+        <module name="netty" />
         <module name="register" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="clientdemo-core" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="netty" target="1.8" />
       <module name="register" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: netty
+server:
+  port: 8003
+eureka:
+  client:
+    prefer-same-zone-eureka: true
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+  instance:
+    instance-id: netty1
