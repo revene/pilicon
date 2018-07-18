@@ -9,10 +9,10 @@ spring:
   jpa:
     show-sql: true
 server:
-  port: 8501
+  port: 8700
 eureka:
   instance:
-    instance-id: product1
+#    instance-id: product1
   client:
     service-url:
       defaultZone: http://localhost:8000/eureka/

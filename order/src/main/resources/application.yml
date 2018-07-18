@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: order
+  datasource:
+    username: root
+    password: w4247794
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.27.231.86/cloud_order?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+server:
+  port: 8600
+eureka:
+  instance:
+#    instance-id: order1
+    lease-expiration-duration-in-seconds: 90
+    lease-renewal-interval-in-seconds: 20
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8000/eureka/

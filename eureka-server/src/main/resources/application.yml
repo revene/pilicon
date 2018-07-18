@@ -6,12 +6,18 @@ server:
 eureka:
   instance:
     instance-id: eureka-server1
-    lease-renewal-interval-in-seconds: 30
-    lease-expiration-duration-in-seconds: 90
+#    lease-renewal-interval-in-seconds: 30
+#    lease-expiration-duration-in-seconds: 90
 #    加上这个,点击eureka注册中心面板的实例,跳转的就是hostname而不是ip了
     hostname: eureka-server
   client:
     register-with-eureka: false
     fetch-registry: false
+#    终于知道注册中心即使不注册也要下面的这句话了,虽然没去注册,但是还是会往下面这个地址发送心跳?
+#    所以在不配置的情况下,会报connection refused 而且在控制中心的面板上回看到默认的一个注册中心地址的端口号
+#    是8761/eureka/这样的 所以找不到这个默认的,所以报connection refused
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
 #  关闭eureka的自我保护机制,开发的时候配,避免服务死了还以为是活的 但是在生产环境不是这样必须要打开
+  server:
     enable-self-preservation: false

@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
       </list>
     </option>
   </component>

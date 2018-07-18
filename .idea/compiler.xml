@@ -14,6 +14,7 @@
         <module name="eureka-server" />
         <module name="gateway" />
         <module name="netty" />
+        <module name="order" />
         <module name="product" />
         <module name="zuul" />
       </profile>
@@ -31,6 +32,7 @@
       <module name="eureka-server" target="1.8" />
       <module name="gateway" target="1.8" />
       <module name="netty" target="1.8" />
+      <module name="order" target="1.8" />
       <module name="product" target="1.8" />
       <module name="register" target="1.8" />
       <module name="zuul" target="1.8" />
