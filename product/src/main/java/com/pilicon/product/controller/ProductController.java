@@ -1,7 +1,30 @@
 package com.pilicon.product.controller;
 
 
+import com.pilicon.product.VO.ProductVO;
+import com.pilicon.product.VO.ResultVO;
+import com.pilicon.product.dto.ProductInfoDto;
+import com.pilicon.product.entity.ProductCategory;
+import com.pilicon.product.entity.ProductInfo;
+import com.pilicon.product.service.CategoryService;
+import com.pilicon.product.service.ProductService;
+import org.springframework.beans.BeanUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+@RestController
+@RequestMapping(value = "product")
 public class ProductController {
+    @Autowired
+    private ProductService productService;
+    @Autowired
+    private CategoryService categoryService;
 
     /**
      * 1. 查询所有在架的商品
@@ -9,7 +32,37 @@ public class ProductController {
      * 3. 查询类目
      * 4. 构造数据
      */
-    public void list(){
+    @RequestMapping(value = "list",method = RequestMethod.GET)
+    public ResultVO<ProductVO> list() throws Exception {
+        List<ProductInfo> productInfoList = productService.findAll();
+        List<Integer> categoryTypeList = productInfoList.stream()
+                .map(ProductInfo::getCategoryType)
+                .collect(Collectors.toList());
+        List<ProductCategory> productCategoryList = categoryService.findByCategoryType(categoryTypeList);
 
+        List<ProductVO> productVOList = new ArrayList<>();
+        for (ProductCategory productCategory: productCategoryList){
+            ProductVO productVO=new ProductVO();
+            productVO.setCategoryName(productCategory.getCategoryName());
+            productVO.setCategoryType(productCategory.getCategoryType());
+
+            List<ProductInfoDto> productInfoDtoList = new ArrayList<>();
+            for (ProductInfo productInfo: productInfoList) {
+                if (productInfo.getCategoryType().equals(productCategory.getCategoryType())) {
+                    ProductInfoDto productInfoDto = new ProductInfoDto();
+                    BeanUtils.copyProperties(productInfo, productInfoDto);
+                    productInfoDtoList.add(productInfoDto);
+                }
+            }
+            productVO.setProductInfoDtoList(productInfoDtoList);
+            productVOList.add(productVO);
+
+        }
+
+        ResultVO resultVO = new ResultVO();
+        resultVO.setData(productVOList);
+        resultVO.setCode(0);
+        resultVO.setMsg("成功");
+        return resultVO;
     }
 }

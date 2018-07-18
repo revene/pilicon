@@ -12,5 +12,5 @@ public interface ProductInfoDao extends JpaRepository<ProductInfo,String> {
     @Query(value = "select p from ProductInfo p where p.productStatus=:productStatus")
     public List<ProductInfo> findAllByProductStatus(@Param("productStatus") Integer productStatus);
 
-    
+
 }
