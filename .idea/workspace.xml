@@ -2,34 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2219951b-d34d-4583-b7d8-1311b1cdd555" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_feign_1_4_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/api/ProductClientApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/dto/CartDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/entity/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/dto/CartDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/enums/ResultEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/exception/ProductException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/service/impl/ProductServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/config-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order/order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order/order.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/OrderApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/dao/ProductInfoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/dao/ProductInfoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/dao/ProductInfoDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/dao/ProductInfoDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/service/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/service/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/src/main/resources/application.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/register/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -46,6 +37,8 @@
     <ignored path="$PROJECT_DIR$/eureka-client/target/" />
     <ignored path="$PROJECT_DIR$/product/target/" />
     <ignored path="$PROJECT_DIR$/order/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/concurrency/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,109 +65,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/OrderController.java">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/OrderService.java">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/product/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+            <state relative-caret-position="138">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductClientApi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/api/ProductClientApi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartDto.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/dto/CartDto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/src/main/java/com/pilicon/product/controller/ProductController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="87" column="42" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClientController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/ClientController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/impl/OrderServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderDto.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/dto/OrderDto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderDetail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/entity/OrderDetail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            <state relative-caret-position="150">
+              <caret line="51" column="63" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-596" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1744" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrency/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrencyApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/ConcurrencyApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrency/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/package-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -186,6 +152,7 @@
         <option value="JUnit4 Test Class" />
         <option value="Class" />
         <option value="Enum" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -208,10 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/entity/ProductCategory.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/dao/ProductCategoryDao.java" />
-        <option value="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/dao/ProductCategoryDaoTest.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/enums/ProductStatusEnum.java" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/product/src/test/java/com/pilicon/product/service/impl/CategoryServiceImplTest.java" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/impl/CategoryServiceImpl.java" />
@@ -236,10 +199,8 @@
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/convert/OrderForm2OrderDto.java" />
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/pilicon/product/controller/ServerController.java" />
-        <option value="$PROJECT_DIR$/order/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/product/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/config/RestTemplateConfig.java" />
-        <option value="$PROJECT_DIR$/order/pom.xml" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/OrderApplication.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/api/ProductClient.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/ClientController.java" />
@@ -259,6 +220,12 @@
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/OrderService.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/order/src/main/java/com/pilicon/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/pilicon/configserver/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/concurrency/pom.xml" />
       </list>
     </option>
   </component>
@@ -412,6 +379,59 @@
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pilicon" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -473,58 +493,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderApplication">
+  <component name="RunManager" selected="Spring Boot.ConcurrencyApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ProductInfoDaoTest.findByProductId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="product" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.product.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.pilicon.product.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.pilicon.product.dao.ProductInfoDaoTest" />
-      <option name="METHOD_NAME" value="findByProductId" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="ProductServiceImplTest.findByProductId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="product" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.product.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.pilicon.product.service.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.pilicon.product.service.impl.ProductServiceImplTest" />
-      <option name="METHOD_NAME" value="findByProductId" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="ProductServiceTest.decreaseStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="product" />
@@ -564,6 +538,26 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="ConcurrencyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="concurrency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.concurrency.ConcurrencyApplication" />
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.configserver.ConfigServerApplication" />
     </configuration>
     <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="eureka-client" />
@@ -631,17 +625,17 @@
       <item itemvalue="Spring Boot.OrderApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.ProductApplication" />
-      <item itemvalue="JUnit.ProductInfoDaoTest.findByProductId" />
-      <item itemvalue="JUnit.ProductServiceImplTest.findByProductId" />
       <item itemvalue="JUnit.ProductServiceTest.decreaseStock" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConcurrencyApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConcurrencyApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ProductApplication" />
         <item itemvalue="JUnit.ProductServiceTest.decreaseStock" />
-        <item itemvalue="Spring Boot.EurekaServerApplication" />
-        <item itemvalue="JUnit.ProductServiceImplTest.findByProductId" />
-        <item itemvalue="JUnit.ProductInfoDaoTest.findByProductId" />
       </list>
     </recent_temporary>
   </component>
@@ -664,7 +658,7 @@
       <workItem from="1531899228492" duration="3001000" />
       <workItem from="1531903028727" duration="1860000" />
       <workItem from="1531908967453" duration="2483000" />
-      <workItem from="1531930623915" duration="10916000" />
+      <workItem from="1531930623915" duration="19887000" />
     </task>
     <task id="LOCAL-00001" summary="项目骨架提交">
       <created>1531399434807</created>
@@ -709,10 +703,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86828000" />
+    <option name="totallyTimeSpent" value="95799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -734,7 +729,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.37605804" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.56348246" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
@@ -752,6 +747,45 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.5090689" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32889965" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="17" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.4985694" weight="0.33736396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50143063" side_tool="true" weight="0.32889965" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3579202" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297568" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -798,65 +832,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/product/src/test/java/com/pilicon/product/service/CategoryServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/impl/CategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/pilicon/product/VO/ProductVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/pilicon/product/service/utils/ResultVOUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/pilicon/product/ProductApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/enums/OrderStatusEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/dao/OrderDetailDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order/src/main/java/com/pilicon/order/enums/PayStatusEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -944,20 +919,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1183,10 +1144,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/product/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/pilicon/configserver/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1744" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-596" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/order/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="150">
+          <caret line="51" column="63" selection-start-line="51" selection-start-column="63" selection-end-line="51" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/ConcurrencyApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
