@@ -3,6 +3,7 @@ package com.pilicon.product.controller;
 
 import com.pilicon.product.VO.ProductVO;
 import com.pilicon.product.VO.ResultVO;
+import com.pilicon.product.dto.CartDto;
 import com.pilicon.product.dto.ProductInfoDto;
 import com.pilicon.product.entity.ProductCategory;
 import com.pilicon.product.entity.ProductInfo;
@@ -10,6 +11,7 @@ import com.pilicon.product.service.CategoryService;
 import com.pilicon.product.service.ProductService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
@@ -64,5 +66,27 @@ public class ProductController {
         resultVO.setCode(0);
         resultVO.setMsg("成功");
         return resultVO;
+    }
+
+
+    /**
+     * 获取商品列表(给定单服务用的)
+     * @param productIdlist
+     * @return
+     */
+    @RequestMapping(value = "listForOrder",method = RequestMethod.POST)
+    public List<ProductInfo> listForOrder(@RequestBody List<String> productIdlist){
+        return productService.findByProductId(productIdlist);
+    }
+
+
+    /**
+     * 扣除库存
+     * @param cartDtoList
+     * @throws Exception
+     */
+    @RequestMapping(value = "decreaseStock",method = RequestMethod.POST)
+    public void decreaseStock(@RequestBody List<CartDto> cartDtoList)throws Exception{
+        productService.decreateStore(cartDtoList);
     }
 }

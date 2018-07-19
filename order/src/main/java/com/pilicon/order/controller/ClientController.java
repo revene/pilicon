@@ -1,5 +1,6 @@
 package com.pilicon.order.controller;
 
+import com.pilicon.order.api.ProductClientApi;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalancerClient;
@@ -18,6 +19,9 @@ public class ClientController {
     @Autowired
     private LoadBalancerClient loadBalancerClient;
 
+    @Autowired
+    private ProductClientApi productClientApi;
+
     @RequestMapping(value = "getProductMsg",method = RequestMethod.GET)
     public String getProductMsg(){
         /**第一种微服务间调用方式 缺点很明显,调用的url是写死的,不能负载均衡,且必须要知道对方的ip*/
@@ -32,9 +36,12 @@ public class ClientController {
 //        String result = restTemplate.getForObject(url,String.class);
 
         /** 第三种方式 在外面配置一个带@LoadBanlance注解修饰的RestTemmplate*/
-        String result = restTemplate.getForObject("http://PRODUCT/msg", String.class);
-        log.info("result={}",result);
-        return result;
+//        String result = restTemplate.getForObject("http://PRODUCT/msg", String.class);
+//        log.info("result={}",result);
+
+        /** 第四种方式 使用feign的方式 **/
+        String productMsg = productClientApi.productMsg();
+        return productMsg;
 
 
     }
