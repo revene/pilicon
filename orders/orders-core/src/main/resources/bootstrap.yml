@@ -7,6 +7,12 @@ spring:
         enabled: true
         service-id: CONFIG-SERVER
       profile: dev
+#  rabbitmq相关配置
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 eureka:
   instance:
 #    instance-id: product1

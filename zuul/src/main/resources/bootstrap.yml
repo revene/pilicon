@@ -1,0 +1,42 @@
+spring:
+  application:
+    name: zuul
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG-SERVER
+      profile: dev
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+
+#配置自定义的路由规则
+zuul:
+  routes:
+#  这里指定一个路由的名称和路由的地址,将他指向一个serviceId 默认就是service-id
+    config:
+      path: /config/**
+      serviceId: config-server
+#      允许敏感的头部信息传入,比如cookie 默认情况下cookie是不允许传入的
+      sensitiveHeaders:
+
+#    简洁的写法
+#    config: /config/**/
+
+#    禁止一些路由
+  ignored-patterns:
+    - /product/product/listForOrders
+
+
+#开放所有的端口,可以使routes的所有映射被查看到
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+
