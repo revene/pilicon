@@ -1,22 +1,30 @@
-#注意 config-client会默认去localhost:8888 找配置,所以我把serverport配置成8888
+#config-client会默认去localhost:8888 找配置,所以我把serverport配置成8888
 server:
   port: 8888
 spring:
   application:
     name: config-server
-#    配置中心指向远端的git仓库,然后会在自己本地也建一个配置的本地仓库
+    #    配置中心指向远端的git仓库,然后会在自己本地也建一个配置的本地仓库
   cloud:
     config:
       server:
         git:
-          uri: https://github.com/revene/config-repository
-          username: revene
+          uri: https://gitee.com/robot_fuccker/springcloud-config/
+          username: 1479930060@qq.com
           password: w4247794
-#         设置本地的配置git仓库位置
-          basedir: /Users/wangbaoliang/Desktop/config-server/
+    #         设置本地的配置git仓库位置
+
 eureka:
   client:
     fetch-registry: true
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8000/eureka/
+#暴露所有的actuator接口
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+

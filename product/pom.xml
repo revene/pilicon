@@ -6,7 +6,13 @@
     <groupId>com.pilicon</groupId>
     <artifactId>product</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>product-api</module>
+        <module>product-core</module>
+        <module>product-common</module>
+    </modules>
 
     <name>product</name>
     <description>Demo project for Spring Boot</description>
@@ -53,6 +59,12 @@
         </dependency>
 
         <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-feign</artifactId>
+            <version>1.4.5.RELEASE</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
@@ -69,15 +81,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
-
 
 </project>

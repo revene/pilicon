@@ -10,9 +10,18 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
-      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-api/order api.iml" filepath="$PROJECT_DIR$/order/order-api/order api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order-api.iml" filepath="$PROJECT_DIR$/order/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders.iml" filepath="$PROJECT_DIR$/orders/orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders-api/orders-api.iml" filepath="$PROJECT_DIR$/orders/orders-api/orders-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders-common/orders-common.iml" filepath="$PROJECT_DIR$/orders/orders-common/orders-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders/orders-core/orders-core.iml" filepath="$PROJECT_DIR$/orders/orders-core/orders-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pilicon.iml" filepath="$PROJECT_DIR$/.idea/pilicon.iml" />
       <module fileurl="file://$PROJECT_DIR$/product/product.iml" filepath="$PROJECT_DIR$/product/product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product-api/product-api.iml" filepath="$PROJECT_DIR$/product/product-api/product-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product-common/product-common.iml" filepath="$PROJECT_DIR$/product/product-common/product-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product/product-core/product-core.iml" filepath="$PROJECT_DIR$/product/product-core/product-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
     </modules>
   </component>

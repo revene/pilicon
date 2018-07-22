@@ -16,8 +16,15 @@
         <module name="eureka-server" />
         <module name="gateway" />
         <module name="netty" />
-        <module name="order" />
-        <module name="product" />
+        <module name="order api" />
+        <module name="order-api" />
+        <module name="orders-api" />
+        <module name="orders-common" />
+        <module name="orders-core" />
+        <module name="parent" />
+        <module name="product-api" />
+        <module name="product-common" />
+        <module name="product-core" />
         <module name="zuul" />
       </profile>
     </annotationProcessing>
@@ -37,7 +44,20 @@
       <module name="gateway" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="order" target="1.8" />
+      <module name="order api" target="1.8" />
+      <module name="order-api" target="1.8" />
+      <module name="order-api1" target="1.8" />
+      <module name="order-common" target="1.8" />
+      <module name="orders" target="1.8" />
+      <module name="orders-api" target="1.8" />
+      <module name="orders-common" target="1.8" />
+      <module name="orders-core" target="1.8" />
+      <module name="parent" target="1.8" />
       <module name="product" target="1.8" />
+      <module name="product-api" target="1.8" />
+      <module name="product-common" target="1.8" />
+      <module name="product-core" target="8" />
+      <module name="product-rest" target="1.8" />
       <module name="register" target="1.8" />
       <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>

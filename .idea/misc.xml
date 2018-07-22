@@ -21,11 +21,20 @@
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/zuul/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
-        <option value="$PROJECT_DIR$/product/pom.xml" />
-        <option value="$PROJECT_DIR$/order/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/order/order-api/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
+        <option value="$PROJECT_DIR$/product/pom.xml" />
+        <option value="$PROJECT_DIR$/orders/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/orders/orders-rest/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
