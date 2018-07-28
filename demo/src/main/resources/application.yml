@@ -23,15 +23,16 @@ spring:
     #validate 验证类里的属性和表是否一致,不一致会报错
   jpa:
     hibernate:
-      ddl-auto: none
+      ddl-auto: update
     show-sql: true
   application:
     name: demo
-eureka:
-  client:
-    fetch-registry: true
-    register-with-eureka: true
-    service-url: http://localhost:8000/eureka
+#    注释掉就会有默认的eureka即8761去注册
+#eureka:
+#  client:
+#    fetch-registry: true
+#    register-with-eureka: true
+#    service-url: http://localhost:8000/eureka
 
 
 

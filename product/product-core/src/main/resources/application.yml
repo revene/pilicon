@@ -6,6 +6,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     password: w4247794
     url: jdbc:mysql://120.27.231.86/cloud_order?characterEncoding=utf-8&useSSL=false
+
   jpa:
     show-sql: true
 server:
@@ -13,8 +14,13 @@ server:
 eureka:
   instance:
 #    instance-id: product1
-  client:
-    service-url:
-      defaultZone: http://localhost:8000/eureka/
-    fetch-registry: true
-    register-with-eureka: true
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8000/eureka/
+#    fetch-registry: true
+#    register-with-eureka: true
+
+feign:
+  hystrix:
+    enabled: true
+    

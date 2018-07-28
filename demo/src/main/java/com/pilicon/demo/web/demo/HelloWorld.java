@@ -4,6 +4,7 @@ import com.pilicon.demo.web.demo.dto.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Date;
@@ -24,5 +25,10 @@ public class HelloWorld {
         user.setDate(new Date());
 //        user.setDesc("嘻嘻嘻嘻嘻嘻");
         return user;
+    }
+
+    @RequestMapping(value = "helloWorld",method = RequestMethod.POST)
+    public String helloWorld()throws Exception{
+        return "helloWorld";
     }
 }

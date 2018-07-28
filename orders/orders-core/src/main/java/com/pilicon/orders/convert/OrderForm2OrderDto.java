@@ -34,7 +34,7 @@ public class OrderForm2OrderDto {
 
         } catch (Exception e) {
             log.error("Json转换错误,string={}", orderForm.getItems());
-            throw new OrderException(ResultEnum.PARAM_ERROR.getCode(), ResultEnum.PARAM_ERROR.getMessage());
+            throw new OrderException(ResultEnum.PARAM_ERROR);
         }
         return orderDto;
     }

@@ -4,8 +4,17 @@ import lombok.Getter;
 
 @Getter
 public enum ResultEnum {
+    //参数错误
     PARAM_ERROR(1, "参数错误"),
-    CART_EMPTY(2, "购物车为空"),;
+    //购物车为空
+    CART_EMPTY(2, "购物车为空"),
+    //订单不存在
+    ORDER_NOT_EXIST(3,"订单不存在"),
+    //订单状态异常
+    ORDER_STATUS_ERROR(4,"订单状态异常"),
+    //订单详情不存在
+    ORDER_DETAIL_NOT_EXIST(5,"订单详情不存在"),
+    ;
 
     private Integer code;
 

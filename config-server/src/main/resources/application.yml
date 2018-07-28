@@ -14,12 +14,12 @@ spring:
           password: w4247794
     #         设置本地的配置git仓库位置
 
-eureka:
-  client:
-    fetch-registry: true
-    register-with-eureka: true
-    service-url:
-      defaultZone: http://localhost:8000/eureka/
+#eureka:
+#  client:
+#    fetch-registry: true
+#    register-with-eureka: true
+#    service-url:
+#      defaultZone: http://localhost:8000/eureka/
 #暴露所有的actuator接口
 management:
   endpoints:

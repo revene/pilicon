@@ -2,6 +2,8 @@ package com.pilicon.orders.service.impl;
 
 
 import com.pilicon.orders.entity.OrderDetail;
+import com.pilicon.orders.enums.ResultEnum;
+import com.pilicon.orders.exception.OrderException;
 import com.pilicon.orders.service.OrderService;
 import com.pilicon.orders.enums.OrderStatusEnum;
 import com.pilicon.orders.enums.PayStatusEnum;
@@ -16,6 +18,8 @@ import com.pilicon.product.common.ProductInfoOutput;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+import org.springframework.util.CollectionUtils;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
@@ -76,6 +80,35 @@ public class OrderServiceImpl implements OrderService {
         OrderMaster save = orderMasterDao.save(orderMaster);
 
 
+        return orderDto;
+    }
+
+    @Override
+    @Transactional
+    public OrderDto finish(String orderId) {
+        //1 .先查询订单
+        OrderMaster orderMaster = orderMasterDao.findByOrderId(orderId);
+        if (orderMaster == null){
+            throw new OrderException(ResultEnum.ORDER_NOT_EXIST);
+        }
+        //2. 判断订单状态
+        if (OrderStatusEnum.NEW.getCode() != orderMaster.getOrderStatus()){
+            throw new OrderException(ResultEnum.ORDER_STATUS_ERROR);
+        }
+        //3. 修改订单状态为完结
+        orderMaster.setOrderStatus(OrderStatusEnum.FINISHED.getCode());
+        OrderMaster save = orderMasterDao.save(orderMaster);
+
+        OrderDto orderDto = new OrderDto();
+        //查询订单详情
+        List<OrderDetail> orderDetailList = orderDetailDao.findByOrderId(orderId);
+        if (CollectionUtils.isEmpty(orderDetailList)){
+            throw new OrderException(ResultEnum.ORDER_DETAIL_NOT_EXIST);
+        }
+
+        //复制对象属性
+        BeanUtils.copyProperties(orderMaster,orderDto);
+        orderDto.setOrderDetailList(orderDetailList);
         return orderDto;
     }
 }

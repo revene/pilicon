@@ -25,8 +25,12 @@ public class Server {
 
     public void doStart() throws  IOException {
         while (true){
-            Socket client=serverSocket.accept();
-
+            try {
+                 Socket client=serverSocket.accept();
+                 new ClientHandler(client).start();
+            }catch (IOException e){
+                System.out.println("服务端异常");
+            }
         }
     }
 }

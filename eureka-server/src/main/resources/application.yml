@@ -1,11 +1,9 @@
 spring:
   application:
     name: eureka-server
-server:
-  port: 8000
 eureka:
   instance:
-    instance-id: eureka-server1
+#    instance-id: eureka-server1
 #    lease-renewal-interval-in-seconds: 30
 #    lease-expiration-duration-in-seconds: 90
 #    加上这个,点击eureka注册中心面板的实例,跳转的就是hostname而不是ip了
@@ -21,3 +19,5 @@ eureka:
 #  关闭eureka的自我保护机制,开发的时候配,避免服务死了还以为是活的 但是在生产环境不是这样必须要打开
   server:
     enable-self-preservation: false
+server:
+  port: 8761
