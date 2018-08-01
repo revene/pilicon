@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2219951b-d34d-4583-b7d8-1311b1cdd555" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_unknown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_25_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_context_log4j2_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_servlet_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_web_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_webmvc_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka11_2_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_zipkin_zipkin2_zipkin_2_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_4_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/netty/ServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/HystrixController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/constants/CookieConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/constants/RedisConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/controller/UserInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/dao/UserInfoDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/dto/UserInfoDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/entity/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/enums/RoleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/exception/LoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/service/UserInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/service/impl/UserInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/utils/CookieUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/pilicon/zuul/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/pilicon/zuul/filter/AuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/pilicon/zuul/utils/CookieUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/consumer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/pilicon/consumer/web/ConsumerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/java/com/pilicon/consumer/web/consumer/ConsumerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer/src/test/java/com/pilicon/consumer/ConsumerControllerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/netty/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/netty/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/OrdersWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/OrdersWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/SendMessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/SendMessageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/convert/OrderForm2OrderDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/convert/OrderForm2OrderDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderDetailDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderDetailDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderMasterDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderMasterDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/enums/ResultEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/enums/ResultEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/exception/OrderException.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/exception/OrderException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/MqReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/MqReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/StreamClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/StreamClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/StreamReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/StreamReceiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orders/orders-core/src/test/java/com/pilicon/orders/MySenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/orders/orders-core/src/test/java/com/pilicon/orders/MySenderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-api/src/main/java/com/pilicon/product/api/ProductClientApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-api/src/main/java/com/pilicon/product/api/ProductClientApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-core/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-core/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/zuul/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/register/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -149,32 +62,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EurekaServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/pilicon/eurekaserver/EurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataSourceAutoConfiguration.class" pinned="false" current-in-tab="true">
-        <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="916">
+            <state relative-caret-position="736">
               <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -186,7 +77,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="1606">
               <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
             </state>
           </provider>
@@ -441,9 +332,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -451,80 +340,12 @@
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pilicon" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="orders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-              <item name="product-core" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-autoconfigure-2.0.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-autoconfigure-2.0.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-boot-autoconfigure-2.0.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -722,7 +543,8 @@
       <workItem from="1532071421841" duration="251000" />
       <workItem from="1532072036700" duration="6168000" />
       <workItem from="1532102946047" duration="72913000" />
-      <workItem from="1532486640044" duration="11844000" />
+      <workItem from="1532486640044" duration="12195000" />
+      <workItem from="1533027299280" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="项目骨架提交">
       <created>1531399434807</created>
@@ -767,11 +589,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="195865000" />
+    <option name="totallyTimeSpent" value="196565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -785,9 +606,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3579202" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3579202" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
@@ -796,7 +616,7 @@
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.4413543" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
       <window_info anchor="bottom" id="Problems" order="8" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -805,10 +625,11 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.37756497" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -952,22 +773,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/pilicon/consumer/web/consumer/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/pilicon/consumer/web/consumer/ConsumerController.java" />
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/pilicon/eurekaclient/EurekaClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1150,10 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1032">
           <caret line="308" selection-start-line="308" selection-end-line="308" />
-          <folding>
-            <element signature="e#5343#5344#0" expanded="true" />
-            <element signature="e#5395#5396#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,7 +998,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/product/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="1606">
           <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
         </state>
       </provider>
@@ -1202,31 +1010,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot/2.0.3.RELEASE/spring-boot-2.0.3.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="150" column="54" lean-forward="true" selection-start-line="150" selection-start-column="54" selection-end-line="150" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/pilicon/eurekaserver/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1239,8 +1026,29 @@
     </entry>
     <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceAutoConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="220">
           <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/pilicon/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
