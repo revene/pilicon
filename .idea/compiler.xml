@@ -24,6 +24,7 @@
         <module name="product-api" />
         <module name="product-common" />
         <module name="product-core" />
+        <module name="rabbitmq" />
         <module name="user" />
         <module name="user-core" />
         <module name="zuul" />
@@ -59,6 +60,7 @@
       <module name="product-common" target="1.8" />
       <module name="product-core" target="8" />
       <module name="product-rest" target="1.8" />
+      <module name="rabbitmq" target="1.8" />
       <module name="register" target="1.8" />
       <module name="user" target="1.8" />
       <module name="user-core" target="1.8" />

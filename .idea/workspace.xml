@@ -2,6 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2219951b-d34d-4583-b7d8-1311b1cdd555" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/rabbitmq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/register/target/" />
@@ -36,6 +74,7 @@
     <ignored path="$PROJECT_DIR$/orders/orders-common/target/" />
     <ignored path="$PROJECT_DIR$/user/target/" />
     <ignored path="$PROJECT_DIR$/user/user-core/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +101,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java">
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+            <state relative-caret-position="550">
+              <caret line="28" column="81" selection-start-line="28" selection-start-column="81" selection-end-line="28" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="26" column="48" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,27 +140,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/pom.xml">
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1606">
-              <caret line="73" column="62" selection-start-line="73" selection-start-column="62" selection-end-line="73" selection-end-column="62" />
+            <state relative-caret-position="286">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/product-core/src/main/resources/application.yml">
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="223">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="MyConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/MyConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/MyConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/MyConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -137,25 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/user/UserApplication.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/UserCoreApplication.java" />
-        <option value="$PROJECT_DIR$/user/pom.xml" />
-        <option value="$PROJECT_DIR$/user/user-core/pom.xml" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/service/UserInfoService.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/exception/LoginException.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/enums/RoleEnum.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/constants/CookieConstant.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/service/impl/UserInfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/dao/UserInfoDao.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/entity/UserInfo.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/dto/UserInfoDto.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/constants/RedisConstant.java" />
-        <option value="$PROJECT_DIR$/user/user-core/src/main/java/com/pilicon/user/utils/CookieUtil.java" />
-        <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/exception/OrderException.java" />
-        <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderMasterDao.java" />
-        <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao/OrderDetailDao.java" />
-        <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/enums/ResultEnum.java" />
         <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/convert/OrderForm2OrderDto.java" />
         <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/message/StreamReceiver.java" />
@@ -188,6 +269,25 @@
         <option value="$PROJECT_DIR$/product/pom.xml" />
         <option value="$PROJECT_DIR$/product/product-core/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Consumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/MyConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Producer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Consumer.java" />
       </list>
     </option>
   </component>
@@ -219,12 +319,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="rabbitmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="rabbitmq" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -234,10 +334,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="514" />
-    <option name="y" value="28" />
     <option name="width" value="1440" />
-    <option name="height" value="826" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -329,9 +427,12 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -340,12 +441,55 @@
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pilicon" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
+              <item name="dlx" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -354,7 +498,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="datasourceau&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;loadbalanceinte&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;server&#9;PSI&#9;JAVA://java.net.HttpConnectSocketImpl#server&#10;loadbalancecli&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;LoadBalanceInter&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;discover&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class&#10;endpotin&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/endpoint/EndpointUtils.class&#10;Endpointu&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils&#10;DiscoverClient&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class" />
+    <property name="SearchEverywhereHistoryKey" value="s&#9;FILE&#9;file:///Users/wangbaoliang/Desktop/pilicon/.idea/sqldialects.xml&#10;datasourceau&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;loadbalanceinte&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;server&#9;PSI&#9;JAVA://java.net.HttpConnectSocketImpl#server&#10;loadbalancecli&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;LoadBalanceInter&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;discover&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class&#10;endpotin&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/endpoint/EndpointUtils.class&#10;Endpointu&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils&#10;DiscoverClient&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -375,25 +519,28 @@
       <recent name="com.pilicon.order.dao" />
       <recent name="com.pilicon.product.service" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.pilicon.register.web" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/user/user-core/src/main/resources" />
-      <recent name="$PROJECT_DIR$/product/product-api/src/main/java/com/pilicon/product/api" />
-      <recent name="$PROJECT_DIR$/product/product-core/src/main/java/com/pilicon/product" />
-      <recent name="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dao" />
-      <recent name="$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/dto" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pilicon.rabbitmq.limit" />
       <recent name="com.pilicon.zuul.utils" />
       <recent name="user" />
       <recent name="com.pilicon.orders" />
       <recent name="com.pilicon.product" />
-      <recent name="com.pilicon.product.core.productmanage.common.utils" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx" />
+      <recent name="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack" />
+      <recent name="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit" />
+      <recent name="$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer" />
+      <recent name="$PROJECT_DIR$/user/user-core/src/main/resources" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pilicon.rabbitmq.consumer" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -408,9 +555,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Application.Producer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Consumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.rabbitmq.limit.Consumer" />
+      <module name="rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.rabbitmq.limit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Consumer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.rabbitmq.ack.Consumer" />
+      <module name="rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.rabbitmq.ack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.rabbitmq.dlx.Consumer" />
+      <module name="rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.rabbitmq.dlx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Producer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.rabbitmq.ack.Producer" />
+      <module name="rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.rabbitmq.ack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.rabbitmq.dlx.Producer" />
+      <module name="rabbitmq" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.rabbitmq.dlx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -430,56 +632,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="config-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.configserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.configserver.ConfigServerApplication" />
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.demo.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.demo.web.DemoApplication" />
-    </configuration>
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eureka-server" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.eurekaserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.eurekaserver.EurekaServerApplication" />
-    </configuration>
-    <configuration name="OrdersWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="orders-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.orders.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.orders.OrdersWebApplication" />
-    </configuration>
-    <configuration name="UserCoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="user-core" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.user.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pilicon.user.UserCoreApplication" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -504,19 +656,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
-      <item itemvalue="Spring Boot.UserCoreApplication" />
-      <item itemvalue="Spring Boot.OrdersWebApplication" />
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Application.Consumer (1)" />
+      <item itemvalue="Application.Consumer (2)" />
+      <item itemvalue="Application.Producer (2)" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="Application.Producer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaServerApplication" />
-        <item itemvalue="Spring Boot.DemoApplication" />
-        <item itemvalue="Spring Boot.OrdersWebApplication" />
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
-        <item itemvalue="Spring Boot.UserCoreApplication" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Consumer (2)" />
+        <item itemvalue="Application.Producer (2)" />
+        <item itemvalue="Application.Consumer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -545,6 +697,8 @@
       <workItem from="1532102946047" duration="72913000" />
       <workItem from="1532486640044" duration="12195000" />
       <workItem from="1533027299280" duration="349000" />
+      <workItem from="1533870585704" duration="3255000" />
+      <workItem from="1533977363722" duration="7644000" />
     </task>
     <task id="LOCAL-00001" summary="项目骨架提交">
       <created>1531399434807</created>
@@ -589,10 +743,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196565000" />
+    <option name="totallyTimeSpent" value="207464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -608,28 +763,28 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3579202" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32889965" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.4413543" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3579202" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18025751" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18454936" />
       <window_info anchor="bottom" id="Problems" order="8" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="bottom" id="JProfiler" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.37756497" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -710,146 +865,20 @@
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="55" />
+      <option name="time" value="58" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Applications/ide/mavenLocalhost/io/netty/netty-all/5.0.0.Alpha2/netty-all-5.0.0.Alpha2.jar!/io/netty/channel/ChannelInboundHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/netty/ServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/NettyApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/ServerBoot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/ClientHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/web/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basetraning/src/io/EncodeDemo.java" />
-    <entry file="file://$PROJECT_DIR$/basetraning/src/radix/RadixMain.java" />
-    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/pilicon/netty/netty/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/consumer/src/main/java/com/pilicon/consumer/web/consumer/ConsumerController.java" />
-    <entry file="file://$PROJECT_DIR$/eureka-client/src/main/java/com/pilicon/eurekaclient/EurekaClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/entity/Girl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-303">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/dto/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/pilicon/demo/web/demo/HelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-starter-parent/2.0.3.RELEASE/spring-boot-starter-parent-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1871">
-          <caret line="144" column="16" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/aop/AopAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuul/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1035,20 +1064,195 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/orders/orders-core/src/main/java/com/pilicon/orders/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
+        <state relative-caret-position="990">
           <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/confirm/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/RabbitmqApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sqldialects.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/returnlistener/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Applications/ide/mavenLocalhost/com/rabbitmq/amqp-client/3.6.5/amqp-client-3.6.5.jar!/com/rabbitmq/client/DefaultConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/consumer/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="81" selection-start-line="28" selection-start-column="81" selection-end-line="28" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/dlx/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

@@ -4,34 +4,22 @@
     <file url="file://$PROJECT_DIR$/client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/concurrency" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order/order-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/order/order-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orders" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/orders-rest" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/orders/order-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orders/orders-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orders/orders-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/orders/orders-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/orders/orders-rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product/product-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product/product-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/product/product-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/product/product-rest" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/user/user-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/user/user-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
   </component>
 </project>
