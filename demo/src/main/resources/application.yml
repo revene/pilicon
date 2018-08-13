@@ -7,26 +7,26 @@ server:
   servlet:
     context-path: /
 #指定debug开关可以让我们看到生效的自动配置和未生效的自动配置
-debug: true
+#debug: true
 #数据源相关的配置
-spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://120.27.231.86:3306/blanc_
-    username: root
-    password: w4247794
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://120.27.231.86:3306/blanc_
+#    username: root
+#    password: w4247794
 
     #每次程序跑的时候都会新建表,如果之前有了,会先删掉......那不是傻逼么 生产上有个就是sb
     #create-drop 运行的时候建表,程序结束时删表
     #update选项是第一次也会建表,但是下一次启动就不会删表重建了
     #none 默认选项 什么都不会做
     #validate 验证类里的属性和表是否一致,不一致会报错
-  jpa:
-    hibernate:
-      ddl-auto: update
-    show-sql: true
-  application:
-    name: demo
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#  application:
+#    name: demo
 #    注释掉就会有默认的eureka即8761去注册
 #eureka:
 #  client:

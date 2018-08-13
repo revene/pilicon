@@ -1,4 +1,4 @@
-package com.pilicon.demo.web.demo.entity;
+package com.pilicon.demo.demo.entity;
 
 public class User {
 

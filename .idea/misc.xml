@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/user/pom.xml" />
         <option value="$PROJECT_DIR$/user/user-core/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/dive-in-springboot/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

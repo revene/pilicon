@@ -1,4 +1,4 @@
-package com.pilicon.demo.web.demo.dto;
+package com.pilicon.demo.demo.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;

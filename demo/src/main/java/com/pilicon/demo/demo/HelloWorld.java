@@ -1,7 +1,6 @@
-package com.pilicon.demo.web.demo;
+package com.pilicon.demo.demo;
 
-import com.pilicon.demo.web.demo.dto.User;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.pilicon.demo.demo.dto.User;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
