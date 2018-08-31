@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 
-@ServletComponentScan("com.pilicon.diveinspringboot.web.servlet")
+@ServletComponentScan("com.pilicon.diveinspringboot.autoconfiguration.web.servlet")
 @SpringBootApplication
 public class DiveInSpringbootApplication {
 

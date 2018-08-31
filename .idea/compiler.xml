@@ -15,6 +15,7 @@
         <module name="eureka-client" />
         <module name="eureka-server" />
         <module name="gateway" />
+        <module name="lamda" />
         <module name="netty" />
         <module name="order api" />
         <module name="order-api" />
@@ -46,6 +47,7 @@
       <module name="eureka-client" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="gateway" target="1.8" />
+      <module name="lamda" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="order" target="1.8" />
       <module name="order api" target="1.8" />
