@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.sync;
+package com.pilicon.concurrency.example.sync;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.immutable;
+package com.pilicon.concurrency.example.immutable;
 
 import com.google.common.collect.Maps;
 import com.pilicon.concurrency.annotations.NotThreadSafe;

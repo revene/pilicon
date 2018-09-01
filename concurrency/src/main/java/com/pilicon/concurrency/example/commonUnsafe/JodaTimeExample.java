@@ -1,17 +1,22 @@
-package com.pilicon.concurrency.example.count;
+package com.pilicon.concurrency.example.commonUnsafe;
 
-import com.pilicon.concurrency.annotations.NotThreadSafe;
+import com.pilicon.concurrency.annotations.ThreadSafe;
 import lombok.extern.slf4j.Slf4j;
+import org.joda.time.DateTime;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.atomic.AtomicBoolean;
 
-@NotThreadSafe
+
 @Slf4j
-public class CountExample1 {
+@ThreadSafe
+public class JodaTimeExample {
+
+    private static DateTimeFormatter dateTimeFormatter = DateTimeFormat.forPattern("yyyyMMdd");
 
     //请求总数
     public static int clientTotal = 5000;
@@ -19,30 +24,33 @@ public class CountExample1 {
     //同时并发执行的线程数
     public static int threadTotal = 200;
 
-    public static int count = 0;
-
     public static void main(String[] args) throws InterruptedException {
-        ExecutorService executorService = Executors.newCachedThreadPool();
         final Semaphore semaphore = new Semaphore(threadTotal);
+
         final CountDownLatch countDownLatch = new CountDownLatch(clientTotal);
-        for (int i = 0;i< clientTotal; i++){
+
+        ExecutorService executorService = Executors.newCachedThreadPool();
+
+        for (int i = 0 ; i < clientTotal ; i++){
             executorService.execute(()->{
                 try {
                     semaphore.acquire();
-                    add();
+                    update();
                     semaphore.release();
-                } catch (Exception e) {
-                    log.error("exception",e);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
                 countDownLatch.countDown();
+
             });
         }
         countDownLatch.await();
+        log.info("执行完毕,嘻嘻");
         executorService.shutdown();
-        log.info("count:{}",count);
+
     }
 
-    private static void add(){
-        count++;
+    public static void update(){
+        DateTime.parse("20180808",dateTimeFormatter);
     }
 }

@@ -45,5 +45,6 @@ public class AtomicExample1 {
         //todo 跟代码,这个是重中之重 靠的是unsafe类
         //此时的count相当于工作内存中的备份,而这个里面的方法的var5 相当于真正的主存里的值
         count.incrementAndGet();
+        AtomicBooleanExample atomicBooleanExample = new AtomicBooleanExample();
     }
 }

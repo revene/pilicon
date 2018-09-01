@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.singleton;
+package com.pilicon.concurrency.example.singleton;
 
 import com.pilicon.concurrency.annotations.NotRecommend;
 import com.pilicon.concurrency.annotations.ThreadSafe;

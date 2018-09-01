@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.publish;
+package com.pilicon.concurrency.example.publish;
 
 import com.pilicon.concurrency.annotations.NotThreadSafe;
 import lombok.extern.slf4j.Slf4j;

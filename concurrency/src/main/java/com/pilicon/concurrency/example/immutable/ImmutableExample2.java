@@ -1,9 +1,10 @@
-package com.pilicon.concurrency.immutable;
+package com.pilicon.concurrency.example.immutable;
 
 import com.google.common.collect.Maps;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.Map;
 
 @Slf4j
@@ -18,7 +19,8 @@ public class ImmutableExample2 {
     }
 
     public static void main(String[] args) {
-        MAP.put(1,3);
+//        MAP.put(1,3);
+        MAP = new HashMap<>();
 
     }
 }

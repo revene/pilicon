@@ -1,6 +1,4 @@
-package com.pilicon.concurrency.singleton;
-
-import sun.jvm.hotspot.oops.Instance;
+package com.pilicon.concurrency.example.singleton;
 
 public class SingletonExample5 {
 
