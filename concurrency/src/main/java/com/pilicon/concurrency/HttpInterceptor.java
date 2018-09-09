@@ -1,6 +1,6 @@
 package com.pilicon.concurrency;
 
-import com.pilicon.concurrency.example.threadLocal.RequestHolder;
+import com.pilicon.concurrency.example.threadlocal.RequestHolder;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 

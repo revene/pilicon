@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.example.threadLocal;
+package com.pilicon.concurrency.example.threadlocal;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

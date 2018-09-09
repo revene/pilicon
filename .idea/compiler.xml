@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client" />
         <module name="clientdemo-core" />
+        <module name="collection" />
         <module name="concurrency" />
         <module name="config-server" />
         <module name="demo" />
@@ -39,6 +40,7 @@
       <module name="client-rest" target="1.8" />
       <module name="clientdemo" target="1.8" />
       <module name="clientdemo-core" target="1.8" />
+      <module name="collection" target="1.8" />
       <module name="concurrency" target="1.8" />
       <module name="config-server" target="1.8" />
       <module name="consumer" target="1.8" />

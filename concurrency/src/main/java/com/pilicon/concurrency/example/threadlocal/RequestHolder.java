@@ -1,4 +1,4 @@
-package com.pilicon.concurrency.example.threadLocal;
+package com.pilicon.concurrency.example.threadlocal;
 
 public class RequestHolder {
 
