@@ -12,6 +12,7 @@
         <module name="concurrency" />
         <module name="config-server" />
         <module name="demo" />
+        <module name="design_pattern" />
         <module name="dive-in-springboot" />
         <module name="eureka-client" />
         <module name="eureka-server" />
@@ -45,6 +46,7 @@
       <module name="config-server" target="1.8" />
       <module name="consumer" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="design_pattern" target="1.8" />
       <module name="dive-in-springboot" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-server" target="1.8" />

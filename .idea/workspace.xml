@@ -7,29 +7,32 @@
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/collection/collection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/ConcurrencyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/ConcurrencyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/HttpFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/HttpFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/HttpInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/HttpInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DaemonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DaemonExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DeadLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DeadLockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Interrupted.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Interrupted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/MultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/MultiThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Priority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ShutdownExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ShutdownExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ThreadStateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ThreadStateExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/WaitNotifyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/WaitNotifyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/contextShiftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/contextShiftTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadlocal/RequestHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadlocal/RequestHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadlocal/ThreadLocalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadlocal/ThreadLocalController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/CacheThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/CacheThreadPoolExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/FixedThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/FixedThreadPoolExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/ScheduleThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/ScheduleThreadPoolExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/SingleThreadExecutorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/SingleThreadExecutorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/product-core/src/main/java/com/pilicon/product/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product/product-core/src/main/java/com/pilicon/product/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/design_pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/FECoures.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/FECoures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Geely.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Geely.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/JavaCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/PythonCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/PythonCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IEatAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IFlyAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/ISwimAnimalAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaDiscountICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaDiscountICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/CourseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/CourseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/FlyBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/FlyBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/WalkBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/WalkBird.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/register/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
@@ -67,6 +70,7 @@
     <ignored path="$PROJECT_DIR$/dive-in-springboot/target/" />
     <ignored path="$PROJECT_DIR$/lamda/target/" />
     <ignored path="$PROJECT_DIR$/collection/target/" />
+    <ignored path="$PROJECT_DIR$/design_pattern/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,101 +97,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicThreads.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/BasicThreads.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IAnimalAction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IFlyAnimalAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IFlyAnimalAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEatAnimalAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IEatAnimalAction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultiThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/MultiThread.java">
+      <file leaf-file-name="ISwimAnimalAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/ISwimAnimalAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Priority.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Priority.java">
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="242">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadStateExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ThreadStateExample.java">
+      <file leaf-file-name="Bird.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Bird.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ICourseManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseManager.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WaitNotifyExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/WaitNotifyExample.java">
+      <file leaf-file-name="CourseImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/CourseImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Method.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contextShiftTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/contextShiftTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interrupted.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Interrupted.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcurrencyApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/ConcurrencyApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-46">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeadLockExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DeadLockExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DaemonFromFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/DaemonFromFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -198,12 +205,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="package-info" />
         <option value="FxmlFile" />
         <option value="AnnotationType" />
-        <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -250,31 +257,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/commonUnsafe/ArrayLIstExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/commonUnsafe/HashSetExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/commonUnsafe/HashMapExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/VectorExample1.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/VectorExample2.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/HashTableExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/SynchronsizedSet.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/SynchronsizedSetExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/SynchronizedListExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/SynchronizedMapExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/syncontainer/UnsafeExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/CopyOnWriteArrayList.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/CopyOnWriteArrayListExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/CopyOnWriteArraySetExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/ConcurrentSkipListSet.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/ConcurrentSkipListSetExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/ConcurrentHashMapExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/concurrent/ConcurrentSkipListMapExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/aqs/CountDownLatchExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/aqs/CountDownLatchExample2.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/aqs/SemaphoreExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/aqs/SemaphoreExample2.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/aqs/CyclicBarrierExample1.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/lock/SynchronizedExample.java" />
-        <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/lock/LockExample.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/lock/ReentranLockExample.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/lock/ReentrantReadWriteLockExample.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/lock/StampedLockExample.java" />
@@ -301,6 +283,31 @@
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ThreadStateExample.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Interrupted.java" />
         <option value="$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/contextShiftTest.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/Test.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/Course.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaDiscountCourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/ICourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/FECoures.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/PythonCourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Geely.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Test.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Bird.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/WalkBird.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/FlyBird.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourse.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseContent.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseManager.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/CourseImpl.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Method.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Test.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IFlyAnimalAction.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IEatAnimalAction.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/ISwimAnimalAction.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Dog.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Bird.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IAnimalAction.java" />
       </list>
     </option>
   </component>
@@ -342,9 +349,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="826" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -441,7 +447,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -452,16 +457,51 @@
             <path>
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
               <item name="pilicon" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pilicon" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="principle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="pilicon" type="b2602c69:ProjectViewProjectNode" />
@@ -493,6 +533,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -502,7 +543,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="SearchEverywhereHistoryKey" value="Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Cacheautocon&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration&#10;StampedLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java&#10;AbstractQueue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;AtomicStamp&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Dispatch&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;Dispatcherser&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;DispatcherSer&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;Configfileap&#9;PSI&#9;JAVA://org.springframework.boot.context.config.ConfigFileApplicationListener&#10;LoggingApplicationlI&#9;PSI&#9;JAVA://org.springframework.boot.context.logging.LoggingApplicationListener&#10;EventPublishRun&#9;PSI&#9;JAVA://org.springframework.boot.context.event.EventPublishingRunListener&#10;AnnotationConfigServletWebServerApplicationContext&#9;PSI&#9;JAVA://org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext&#10;spring.fac&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.3.RELEASE/spring-boot-actuator-autoconfigure-2.0.3.RELEASE.jar!/META-INF/spring.factories&#10;meta-inf&#9;FILE&#9;file:///Users/wangbaoliang/Desktop/pilicon/dive-in-springboot/src/main/resources/META-INF&#10;ApplicationContextInitializer&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE.jar!/org/springframework/context/ApplicationContextInitializer.class&#10;springapplication&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/SpringApplication.class&#10;spring.fa&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.3.RELEASE/spring-boot-actuator-autoconfigure-2.0.3.RELEASE.jar!/META-INF/spring.factories&#10;emes&#9;PSI&#9;JAVA://io.netty.channel.embedded.EmbeddedEventLoop&#10;s&#9;FILE&#9;file:///Users/wangbaoliang/Desktop/pilicon/.idea/sqldialects.xml&#10;datasourceau&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;loadbalanceinte&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;server&#9;PSI&#9;JAVA://java.net.HttpConnectSocketImpl#server&#10;loadbalancecli&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;LoadBalanceInter&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;discover&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class&#10;endpotin&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/endpoint/EndpointUtils.class&#10;Endpointu&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils&#10;DiscoverClient&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class" />
+    <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection&#10;Thread&#9;PSI&#9;JAVA://java.lang.Thread&#10;Cacheautocon&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration&#10;StampedLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/StampedLock.java&#10;AbstractQueue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;AtomicStamp&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;AtomicRe&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicReference&#10;Dispatch&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;Dispatcherser&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-webmvc/5.0.7.RELEASE/spring-webmvc-5.0.7.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class&#10;Proxy&#9;PSI&#9;JAVA://java.lang.reflect.Proxy&#10;DispatcherSer&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;Configfileap&#9;PSI&#9;JAVA://org.springframework.boot.context.config.ConfigFileApplicationListener&#10;LoggingApplicationlI&#9;PSI&#9;JAVA://org.springframework.boot.context.logging.LoggingApplicationListener&#10;EventPublishRun&#9;PSI&#9;JAVA://org.springframework.boot.context.event.EventPublishingRunListener&#10;AnnotationConfigServletWebServerApplicationContext&#9;PSI&#9;JAVA://org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext&#10;spring.fac&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.3.RELEASE/spring-boot-actuator-autoconfigure-2.0.3.RELEASE.jar!/META-INF/spring.factories&#10;meta-inf&#9;FILE&#9;file:///Users/wangbaoliang/Desktop/pilicon/dive-in-springboot/src/main/resources/META-INF&#10;ApplicationContextInitializer&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/spring-context/5.0.7.RELEASE/spring-context-5.0.7.RELEASE.jar!/org/springframework/context/ApplicationContextInitializer.class&#10;springapplication&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot/2.0.4.RELEASE/spring-boot-2.0.4.RELEASE.jar!/org/springframework/boot/SpringApplication.class&#10;spring.fa&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-actuator-autoconfigure/2.0.3.RELEASE/spring-boot-actuator-autoconfigure-2.0.3.RELEASE.jar!/META-INF/spring.factories&#10;emes&#9;PSI&#9;JAVA://io.netty.channel.embedded.EmbeddedEventLoop&#10;s&#9;FILE&#9;file:///Users/wangbaoliang/Desktop/pilicon/.idea/sqldialects.xml&#10;datasourceau&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;loadbalanceinte&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;server&#9;PSI&#9;JAVA://java.net.HttpConnectSocketImpl#server&#10;loadbalancecli&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerClient&#10;LoadBalanceInter&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor&#10;discover&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class&#10;endpotin&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/endpoint/EndpointUtils.class&#10;Endpointu&#9;PSI&#9;JAVA://com.netflix.discovery.endpoint.EndpointUtils&#10;DiscoverClient&#9;FILE&#9;jar:///Applications/ide/mavenLocalhost/com/netflix/eureka/eureka-client/1.9.2/eureka-client-1.9.2.jar!/com/netflix/discovery/DiscoveryClient.class" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -561,20 +602,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Interrupted">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="DaemonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.pilicon.concurrency.artofconcurrency.DaemonExample" />
-      <module name="concurrency" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pilicon.concurrency.artofconcurrency.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="Interrupted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pilicon.concurrency.artofconcurrency.Interrupted" />
@@ -605,6 +635,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pilicon.concurrency.artofconcurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pilicon.design_pattern.principle.openclose.Test" />
+      <module name="design_pattern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pilicon.design_pattern.principle.openclose.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -662,19 +703,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DaemonExample" />
       <item itemvalue="Application.Interrupted" />
       <item itemvalue="Application.ShutdownExample" />
       <item itemvalue="Application.MultiThread" />
       <item itemvalue="Application.ThreadStateExample" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Interrupted" />
         <item itemvalue="Application.ThreadStateExample" />
         <item itemvalue="Application.MultiThread" />
         <item itemvalue="Application.ShutdownExample" />
-        <item itemvalue="Application.DaemonExample" />
       </list>
     </recent_temporary>
   </component>
@@ -710,7 +751,9 @@
       <workItem from="1536076165943" duration="5720000" />
       <workItem from="1536154629786" duration="1580000" />
       <workItem from="1536293388855" duration="13122000" />
-      <workItem from="1536389236649" duration="1918000" />
+      <workItem from="1536389236649" duration="5828000" />
+      <workItem from="1536975857583" duration="830000" />
+      <workItem from="1537095902935" duration="7030000" />
     </task>
     <task id="LOCAL-00001" summary="项目骨架提交">
       <created>1531399434807</created>
@@ -755,89 +798,50 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310463000" />
+    <option name="totallyTimeSpent" value="322233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.50143063" side_tool="true" weight="0.32889965" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.26323318" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="JRebel Executor" order="7" sideWeight="0.4985694" weight="0.33736396" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="18" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.50143063" side_tool="true" weight="0.32889965" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.26323318" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" sideWeight="0.4985694" weight="0.33736396" />
+      <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
       <window_info id="Structure" order="1" sideWeight="0.5047081" side_tool="true" weight="0.21030043" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info id="UI Designer" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3579202" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32889965" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32889965" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.24788392" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32889965" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.24727273" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952919" visible="true" weight="0.21888413" />
-      <window_info anchor="bottom" id="Problems" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="3" weight="0.3297568" />
-      <window_info id="Web" order="2" side_tool="true" />
-      <window_info id="JRebel" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="JProfiler" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952919" visible="true" weight="0.22460657" />
+      <window_info anchor="bottom" id="Problems" order="17" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.3297568" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.37756497" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="16" weight="0.37756497" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24964234" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32889965" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32889965" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info id="Image Layers" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.5090689" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32889965" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Problems" order="17" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="JProfiler" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
-      <window_info anchor="bottom" id="JRebel Executor" order="15" sideWeight="0.4985694" weight="0.33736396" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24320458" />
-      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.50143063" side_tool="true" weight="0.32889965" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Web" order="8" side_tool="true" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297568" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3579202" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -896,341 +900,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-dependencies/2.0.3.RELEASE/spring-boot-dependencies-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2747">
-          <caret line="2899" column="4" selection-start-line="204" selection-start-column="26" selection-end-line="2899" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-starter-parent/2.0.3.RELEASE/spring-boot-starter-parent-2.0.3.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/pilicon/eurekaserver/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="130" column="17" selection-start-line="130" selection-start-column="17" selection-end-line="130" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/HttpFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/CacheThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="20" column="35" selection-start-line="14" selection-start-column="8" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/FixedThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="19" column="35" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/SingleThreadExecutorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="19" column="35" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/threadpool/ScheduleThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2596">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto.java" />
-    <entry file="file://$PROJECT_DIR$/collection/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="351" column="20" selection-start-line="351" selection-start-column="20" selection-end-line="351" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/invoke/MemberName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/invoke/MethodHandle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30998">
-          <caret line="1454" column="5" selection-start-line="1454" selection-start-column="5" selection-end-line="1454" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/CollectionApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="260" selection-start-line="260" selection-end-line="260" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/MethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6294">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Applications/ide/mavenLocalhost/org/springframework/spring-core/5.0.7.RELEASE/spring-core-5.0.7.RELEASE.jar!/org/springframework/util/StopWatch.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-996">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="499" lean-forward="true" selection-start-line="499" selection-end-line="499" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/DaemonExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/com/pilicon/collection/dto/ListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ShutdownExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="58" column="21" lean-forward="true" selection-start-line="55" selection-start-column="8" selection-end-line="58" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/product-core/src/main/java/com/pilicon/product/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-977">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/CachedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/CallableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/DaemonFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/DaemonFromFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <caret line="1741" column="16" selection-start-line="1741" selection-start-column="16" selection-end-line="1741" selection-end-column="16" />
-          <folding>
-            <element signature="e#18578#18579#0" expanded="true" />
-            <element signature="e#18620#18621#0" expanded="true" />
-            <element signature="e#33588#33589#0" expanded="true" />
-            <element signature="e#33645#33646#0" expanded="true" />
-            <element signature="e#36709#36710#0" expanded="true" />
-            <element signature="e#36767#36768#0" expanded="true" />
-            <element signature="e#37304#37305#0" expanded="true" />
-            <element signature="e#37347#37348#0" expanded="true" />
-            <element signature="e#42956#42957#0" expanded="true" />
-            <element signature="e#42987#42988#0" expanded="true" />
-            <element signature="e#44253#44254#0" expanded="true" />
-            <element signature="e#44281#44282#0" expanded="true" />
-            <element signature="e#46541#46542#0" expanded="true" />
-            <element signature="e#46614#46615#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/thinkinginjava/BasicThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/ThreadStateExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/WaitNotifyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/artofconcurrency/MultiThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1238,13 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="1222" column="25" selection-start-line="1222" selection-start-column="18" selection-end-line="1222" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1266,9 +932,900 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/ack/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/limit/MyConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq/src/main/java/com/pilicon/rabbitmq/quickstart/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="24" column="19" selection-start-line="24" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/DesignPatternApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/annotation/Native.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/sun/nio/cs/ext/GBK.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14285">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/sun/nio/cs/ext/Big5.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/sun/awt/motif/X11KSC5601.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/sun/awt/motif/X11GBK.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/sun/awt/motif/X11GB2312.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/charsets.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.nio">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.nio</OriginalElement>
+          <nodes>
+            <node x="5426.0" y="178.0">java.nio.ByteBufferAsCharBufferL</node>
+            <node x="3373.0" y="257.0">java.nio.ByteBufferAsDoubleBufferRB</node>
+            <node x="515.0" y="257.0">java.nio.ByteBufferAsIntBufferRL</node>
+            <node x="1755.0" y="257.0">java.nio.ByteBufferAsLongBufferRB</node>
+            <node x="2614.0" y="178.0">java.nio.ByteBufferAsFloatBufferL</node>
+            <node x="2423.0" y="89.0">java.nio.FloatBuffer</node>
+            <node x="4219.0" y="257.0">java.nio.ByteBufferAsDoubleBufferRL</node>
+            <node x="1341.0" y="257.0">java.nio.HeapLongBufferR</node>
+            <node x="3024.5" y="257.0">java.nio.DirectByteBuffer</node>
+            <node x="756.0" y="410.0">java.nio.CharBufferSpliterator</node>
+            <node x="1725.0" y="410.0">java.nio.file</node>
+            <node x="5837.0" y="257.0">java.nio.DirectShortBufferRS</node>
+            <node x="3126.1905405405423" y="89.0">java.nio.ByteBuffer</node>
+            <node x="6030.0" y="257.0">java.nio.DirectShortBufferRU</node>
+            <node x="2377.0" y="178.0">java.nio.ByteBufferAsFloatBufferB</node>
+            <node x="4833.0" y="257.0">java.nio.DirectCharBufferRS</node>
+            <node x="372.0" y="89.0">java.nio.IntBuffer</node>
+            <node x="5660.0" y="178.0">java.nio.HeapShortBuffer</node>
+            <node x="5190.0" y="178.0">java.nio.ByteBufferAsCharBufferB</node>
+            <node x="4643.0" y="257.0">java.nio.DirectCharBufferRU</node>
+            <node x="1519.0" y="257.0">java.nio.ByteBufferAsLongBufferRL</node>
+            <node x="981.0" y="410.0">java.nio.InvalidMarkException</node>
+            <node x="2373.0" y="257.0">java.nio.ByteBufferAsFloatBufferRB</node>
+            <node x="6470.0" y="178.0">java.nio.ByteBufferAsShortBufferL</node>
+            <node x="4947.25" y="89.0">java.nio.CharBuffer</node>
+            <node x="4015.0" y="257.0">java.nio.DirectDoubleBufferRU</node>
+            <node x="3813.0" y="257.0">java.nio.DirectDoubleBufferRS</node>
+            <node x="356.0" y="178.0">java.nio.HeapIntBuffer</node>
+            <node x="3623.0" y="257.0">java.nio.HeapDoubleBufferR</node>
+            <node x="1569.0" y="410.0">java.nio.ByteOrder</node>
+            <node x="6229.0" y="178.0">java.nio.ByteBufferAsShortBufferB</node>
+            <node x="736.0" y="257.0">java.nio.ByteBufferAsIntBufferRB</node>
+            <node x="2610.0" y="257.0">java.nio.ByteBufferAsFloatBufferRL</node>
+            <node x="1997.0" y="178.0">java.nio.DirectFloatBufferU</node>
+            <node x="4467.0" y="257.0">java.nio.HeapCharBufferR</node>
+            <node x="2845.0" y="257.0">java.nio.HeapFloatBufferR</node>
+            <node x="6466.0" y="257.0">java.nio.ByteBufferAsShortBufferRL</node>
+            <node x="508.0" y="410.0">java.nio.BufferOverflowException</node>
+            <node x="6057.0" y="89.0">java.nio.ShortBuffer</node>
+            <node x="2188.0" y="178.0">java.nio.DirectFloatBufferS</node>
+            <node x="1204.0" y="410.0">java.nio.channels</node>
+            <node x="1759.0" y="178.0">java.nio.ByteBufferAsLongBufferB</node>
+            <node x="5422.0" y="257.0">java.nio.ByteBufferAsCharBufferRL</node>
+            <node x="1391.0" y="410.0">java.nio.charset</node>
+            <node x="1993.0" y="257.0">java.nio.DirectFloatBufferRU</node>
+            <node x="2184.0" y="257.0">java.nio.DirectFloatBufferRS</node>
+            <node x="519.0" y="178.0">java.nio.ByteBufferAsIntBufferL</node>
+            <node x="5017.0" y="178.0">java.nio.StringCharBuffer</node>
+            <node x="3377.0" y="178.0">java.nio.ByteBufferAsDoubleBufferB</node>
+            <node x="1345.0" y="178.0">java.nio.HeapLongBuffer</node>
+            <node x="3020.5" y="336.0">java.nio.DirectByteBufferR</node>
+            <node x="1875.0" y="410.0">java.nio.Bits</node>
+            <node x="3144.25" y="0.0">java.nio.Buffer</node>
+            <node x="5186.0" y="257.0">java.nio.ByteBufferAsCharBufferRB</node>
+            <node x="2849.0" y="178.0">java.nio.HeapFloatBuffer</node>
+            <node x="6225.0" y="257.0">java.nio.ByteBufferAsShortBufferRB</node>
+            <node x="740.0" y="178.0">java.nio.ByteBufferAsIntBufferB</node>
+            <node x="1523.0" y="178.0">java.nio.ByteBufferAsLongBufferL</node>
+            <node x="4223.0" y="178.0">java.nio.ByteBufferAsDoubleBufferL</node>
+            <node x="4019.0" y="178.0">java.nio.DirectDoubleBufferU</node>
+            <node x="0.0" y="257.0">java.nio.DirectIntBufferRU</node>
+            <node x="6034.0" y="178.0">java.nio.DirectShortBufferU</node>
+            <node x="177.0" y="257.0">java.nio.DirectIntBufferRS</node>
+            <node x="4837.0" y="178.0">java.nio.DirectCharBufferS</node>
+            <node x="5656.0" y="257.0">java.nio.HeapShortBufferR</node>
+            <node x="3839.0" y="89.0">java.nio.DoubleBuffer</node>
+            <node x="3817.0" y="178.0">java.nio.DirectDoubleBufferS</node>
+            <node x="3198.0" y="257.0">java.nio.HeapByteBufferR</node>
+            <node x="5841.0" y="178.0">java.nio.DirectShortBufferS</node>
+            <node x="1153.0" y="178.0">java.nio.DirectLongBufferU</node>
+            <node x="963.0" y="178.0">java.nio.DirectLongBufferS</node>
+            <node x="0.0" y="410.0">java.nio.BufferUnderflowException</node>
+            <node x="3627.0" y="178.0">java.nio.HeapDoubleBuffer</node>
+            <node x="1149.0" y="257.0">java.nio.DirectLongBufferRU</node>
+            <node x="959.0" y="257.0">java.nio.DirectLongBufferRS</node>
+            <node x="4.0" y="178.0">java.nio.DirectIntBufferU</node>
+            <node x="4471.0" y="178.0">java.nio.HeapCharBuffer</node>
+            <node x="181.0" y="178.0">java.nio.DirectIntBufferS</node>
+            <node x="3202.0" y="178.0">java.nio.HeapByteBuffer</node>
+            <node x="1361.0" y="89.0">java.nio.LongBuffer</node>
+            <node x="352.0" y="257.0">java.nio.HeapIntBufferR</node>
+            <node x="4647.0" y="178.0">java.nio.DirectCharBufferU</node>
+            <node x="3018.0" y="178.0">java.nio.MappedByteBuffer</node>
+            <node x="257.0" y="410.0">java.nio.ReadOnlyBufferException</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.nio.HeapShortBuffer" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5736.5" y="148.0" />
+              <point x="6069.1" y="148.0" />
+              <point x="-48.39999999999998" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferS" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="2268.5" y="158.0" />
+              <point x="2458.1000000000004" y="158.0" />
+              <point x="-23.399999999999636" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectByteBuffer" target="java.nio.MappedByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapIntBuffer" target="java.nio.IntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferL" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="6575.5" y="148.0" />
+              <point x="6165.9" y="148.0" />
+              <point x="48.39999999999998" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferRL" target="java.nio.ByteBufferAsCharBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.FloatBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="2481.5" y="69.0" />
+              <point x="3175.3214285714284" y="69.0" />
+              <point x="-12.428571428571558" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferS" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5923.5" y="158.0" />
+              <point x="6093.3" y="158.0" />
+              <point x="-24.200000000000045" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferRS" target="java.nio.DirectDoubleBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferRU" target="java.nio.DirectFloatBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferRS" target="java.nio.DirectCharBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapCharBuffer" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="4545.0" y="138.0" />
+              <point x="4956.916666666667" y="138.0" />
+              <point x="-48.33333333333326" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferB" target="java.nio.LongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1864.0" y="148.0" />
+              <point x="1467.1999999999998" y="148.0" />
+              <point x="47.19999999999982" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferRB" target="java.nio.ByteBufferAsShortBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DoubleBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3904.0" y="69.0" />
+              <point x="3200.1785714285716" y="69.0" />
+              <point x="12.428571428571558" y="14.5" />
+            </edge>
+            <edge source="java.nio.IntBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="423.5" y="49.0" />
+              <point x="3150.464285714286" y="49.0" />
+              <point x="-37.28571428571422" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferS" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="4917.0" y="158.0" />
+              <point x="4995.583333333333" y="158.0" />
+              <point x="-9.666666666666742" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferL" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="2717.5" y="158.0" />
+              <point x="2504.8999999999996" y="158.0" />
+              <point x="23.399999999999636" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferRU" target="java.nio.DirectIntBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferRS" target="java.nio.DirectLongBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferS" target="java.nio.IntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="254.5" y="158.0" />
+              <point x="402.89999999999964" y="158.0" />
+              <point x="-20.600000000000364" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapCharBufferR" target="java.nio.HeapCharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferS" target="java.nio.LongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1044.0" y="148.0" />
+              <point x="1372.8000000000002" y="148.0" />
+              <point x="-47.19999999999982" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferRB" target="java.nio.ByteBufferAsDoubleBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.CharBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5005.25" y="59.0" />
+              <point x="3212.6071428571427" y="59.0" />
+              <point x="24.857142857142662" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapFloatBuffer" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="2923.5" y="148.0" />
+              <point x="2528.3" y="148.0" />
+              <point x="46.80000000000018" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferB" target="java.nio.IntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="837.5" y="148.0" />
+              <point x="464.6999999999998" y="148.0" />
+              <point x="41.19999999999982" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferRL" target="java.nio.ByteBufferAsIntBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapDoubleBufferR" target="java.nio.HeapDoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferRL" target="java.nio.ByteBufferAsLongBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferRL" target="java.nio.ByteBufferAsFloatBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.MappedByteBuffer" target="java.nio.ByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3100.0" y="158.0" />
+              <point x="3154.9405405405423" y="158.0" />
+              <point x="-28.75" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferU" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="4107.0" y="158.0" />
+              <point x="3930.0" y="158.0" />
+              <point x="26.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferL" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5529.0" y="138.0" />
+              <point x="5053.583333333333" y="138.0" />
+              <point x="48.33333333333326" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferRU" target="java.nio.DirectShortBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapIntBufferR" target="java.nio.HeapIntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapDoubleBuffer" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3708.0" y="158.0" />
+              <point x="3878.0" y="158.0" />
+              <point x="-26.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapShortBufferR" target="java.nio.HeapShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferRB" target="java.nio.ByteBufferAsCharBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferU" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferL" target="java.nio.LongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1627.0" y="158.0" />
+              <point x="1443.6000000000004" y="158.0" />
+              <point x="23.600000000000364" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferB" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3488.0" y="148.0" />
+              <point x="3852.0" y="148.0" />
+              <point x="-52.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectByteBufferR" target="java.nio.DirectByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferRU" target="java.nio.DirectDoubleBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapLongBufferR" target="java.nio.HeapLongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.LongBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1420.0" y="59.0" />
+              <point x="3162.8928571428573" y="59.0" />
+              <point x="-24.857142857142662" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferRS" target="java.nio.DirectFloatBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferRU" target="java.nio.DirectCharBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3183.6905405405423" y="69.0" />
+              <point x="3187.75" y="69.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferRL" target="java.nio.ByteBufferAsShortBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.StringCharBuffer" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5093.5" y="158.0" />
+              <point x="5014.916666666667" y="158.0" />
+              <point x="9.666666666666742" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectFloatBufferU" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="2078.5" y="148.0" />
+              <point x="2434.7" y="148.0" />
+              <point x="-46.80000000000018" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapFloatBufferR" target="java.nio.HeapFloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsShortBufferB" target="java.nio.ShortBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="6335.5" y="158.0" />
+              <point x="6141.7" y="158.0" />
+              <point x="24.200000000000045" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectCharBufferU" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="4728.0" y="148.0" />
+              <point x="4976.25" y="148.0" />
+              <point x="-29.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferRS" target="java.nio.DirectIntBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapByteBuffer" target="java.nio.ByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="3275.5" y="158.0" />
+              <point x="3212.4405405405423" y="158.0" />
+              <point x="28.75" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferRU" target="java.nio.DirectLongBufferU">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsCharBufferB" target="java.nio.CharBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="5294.0" y="148.0" />
+              <point x="5034.25" y="148.0" />
+              <point x="29.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectIntBufferU" target="java.nio.IntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="78.5" y="148.0" />
+              <point x="382.3000000000002" y="148.0" />
+              <point x="-41.19999999999982" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferL" target="java.nio.IntBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="615.5" y="158.0" />
+              <point x="444.10000000000036" y="158.0" />
+              <point x="20.600000000000364" y="14.5" />
+            </edge>
+            <edge source="java.nio.ShortBuffer" target="java.nio.Buffer">
+              <point x="0.0" y="-14.5" />
+              <point x="6117.5" y="49.0" />
+              <point x="3225.035714285714" y="49.0" />
+              <point x="37.28571428571422" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferRL" target="java.nio.ByteBufferAsDoubleBufferL">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsDoubleBufferL" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="4333.0" y="148.0" />
+              <point x="3956.0" y="148.0" />
+              <point x="52.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectLongBufferU" target="java.nio.LongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="1235.0" y="158.0" />
+              <point x="1396.3999999999996" y="158.0" />
+              <point x="-23.600000000000364" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapByteBufferR" target="java.nio.HeapByteBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferB" target="java.nio.FloatBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsIntBufferRB" target="java.nio.ByteBufferAsIntBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.HeapLongBuffer" target="java.nio.LongBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsLongBufferRB" target="java.nio.ByteBufferAsLongBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.ByteBufferAsFloatBufferRB" target="java.nio.ByteBufferAsFloatBufferB">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectShortBufferRS" target="java.nio.DirectShortBufferS">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="java.nio.DirectDoubleBufferS" target="java.nio.DoubleBuffer">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8661269580309351" x="1987.0" y="259.0" />
+          <SelectedNodes>
+            <node>java.nio.MappedByteBuffer</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrency/src/main/java/com/pilicon/concurrency/example/atomic/AtomicBooleanExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaDiscountICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/JavaICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pilicon.design_pattern.principle.openclose">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pilicon.design_pattern.principle.openclose</OriginalElement>
+          <nodes>
+            <node x="" y="">com.pilicon.design_pattern.principle.openclose.JavaICourse</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.openclose.Test</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.openclose.ICourse</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.openclose.JavaDiscountICourse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="89.0" y="130.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/FECoures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/openclose/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="94" selection-start-line="5" selection-start-column="94" selection-end-line="5" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Geely.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pilicon.design_pattern.principle.dependenceinversion">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pilicon.design_pattern.principle.dependenceinversion</OriginalElement>
+          <nodes>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.ICourse</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.Geely</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.JavaCourse</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.Test</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.FECoures</node>
+            <node x="" y="">com.pilicon.design_pattern.principle.dependenceinversion.PythonCourse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="123.5" y="91.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/dependenceinversion/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/FlyBird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/WalkBird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.pilicon.design_pattern.principle.singleresponsibility">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.pilicon.design_pattern.principle.singleresponsibility</OriginalElement>
+          <nodes>
+            <node x="16.0" y="342.0">com.pilicon.design_pattern.principle.singleresponsibility.Bird</node>
+            <node x="-67.0" y="-87.0">com.pilicon.design_pattern.principle.singleresponsibility.FlyBird</node>
+            <node x="159.0" y="154.0">com.pilicon.design_pattern.principle.singleresponsibility.Test</node>
+            <node x="312.0" y="-93.0">com.pilicon.design_pattern.principle.singleresponsibility.WalkBird</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.pilicon.design_pattern.principle.singleresponsibility.Test" target="com.pilicon.design_pattern.principle.singleresponsibility.FlyBird">
+              <point x="-23.0" y="-25.5" />
+              <point x="228.0" y="71.0" />
+              <point x="180.75" y="71.0" />
+              <point x="60.25" y="25.5" />
+            </edge>
+            <edge source="com.pilicon.design_pattern.principle.singleresponsibility.Test" target="com.pilicon.design_pattern.principle.singleresponsibility.WalkBird">
+              <point x="23.0" y="-25.5" />
+              <point x="274.0" y="71.0" />
+              <point x="321.25" y="71.0" />
+              <point x="-60.25" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-205.5" y="-58.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/ICourseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/CourseImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/singleresponsibility/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IFlyAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IEatAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/ISwimAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/Bird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/com/pilicon/design_pattern/principle/interfacesegregation/IAnimalAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>

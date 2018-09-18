@@ -1,12 +1,12 @@
 package com.pilicon.design_pattern.principle.openclose;
 
-public class JavaCourse implements Course{
+public class JavaICourse implements ICourse {
 
     private Integer id;
     private String name;
     private Double price;
 
-    public JavaCourse(Integer id, String name, Double price) {
+    public JavaICourse(Integer id, String name, Double price) {
         this.id = id;
         this.name = name;
         this.price = price;

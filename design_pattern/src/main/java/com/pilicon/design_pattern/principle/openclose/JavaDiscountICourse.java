@@ -1,7 +1,7 @@
 package com.pilicon.design_pattern.principle.openclose;
 
-public class JavaDiscountCourse extends JavaCourse{
-    public JavaDiscountCourse(Integer id, String name, Double price) {
+public class JavaDiscountICourse extends JavaICourse {
+    public JavaDiscountICourse(Integer id, String name, Double price) {
         super(id, name, price);
     }
 }

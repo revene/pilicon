@@ -1,4 +1,5 @@
 package com.pilicon.design_pattern.principle.interfacesegregation;
 
-public class IEatAnimalAction {
+public interface IEatAnimalAction {
+    void eat();
 }

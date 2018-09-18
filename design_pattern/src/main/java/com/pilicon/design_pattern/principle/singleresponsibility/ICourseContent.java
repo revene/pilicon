@@ -1,4 +1,6 @@
 package com.pilicon.design_pattern.principle.singleresponsibility;
 
-public class ICourseContent {
+public interface ICourseContent {
+    String getCourseName();
+    byte[] getCourseVideo();
 }
